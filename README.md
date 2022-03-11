@@ -7,7 +7,7 @@ A experiência empírica de tranformação digital forçada durante a pandemia d
 
 Em alguns cenários, inclusive por incluir usuários com baixo letramento digital, a ferramenta de mensagem instantânea foi usada como plataforma de aprendizagem principal, a despeito de suas limitações, avaliando aqui do ponto de vista pedagógico.
 
-Partindo do princípio que** um bom Sistema de Gestão de Aprendizagem - LMS precisa ir além de um mero repositório ou mesmo ferramenta de troca sincrona/assícrona de conteúdo** e que esses sistemas precisam facilitar aspectos mais amplos, trazendo ferramentas com recursos de:
+Partindo do princípio que **um bom Sistema de Gestão de Aprendizagem - LMS precisa ir além de um mero repositório ou mesmo ferramenta de troca sincrona/assícrona de conteúdo** e que esses sistemas precisam facilitar aspectos mais amplos, trazendo ferramentas com recursos de:
 * Apresentação 
 * Interação
 * Gamificação
