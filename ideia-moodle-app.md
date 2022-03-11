@@ -13,7 +13,7 @@ Partindo do princípio que *um bom Sistema de Gestão de Aprendizagem - LMS prec
 * Trilhas de aprendizagem
 * Avaliação de aprendizagem
 * Relatórios acadêmicos e de aprendizagem
-* Convergência com outras plataformas(LTI)
+* Convergência com outras plataformas([LTI - Learning Tools Interoperability](https://www.imsglobal.org/basic-overview-how-lti-works))
 * Entre outros, incluive descritos na [Taxonomia de Bloom](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) e outros paradigmas educacionais como [Social Constructivism](https://gsi.berkeley.edu/gsi-guide-contents/learning-theory-research/social-constructivism/)
 
 Proponho que seja desenvolvido um aplicativo no marketplace Rocket Chat que permita a integração de canais do chat com o sistema de gestão de aprendizagem mais utilizado no mundo, o Moodle LMS.
