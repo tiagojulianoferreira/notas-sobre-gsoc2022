@@ -23,6 +23,8 @@ Proponho que seja desenvolvido um aplicativo no marketplace Rocket Chat que perm
 
 A ideia de **desenvolver um Rocket Chat APP que sincronize disciplinas Moodle como canais no Rocket com atalhos de acesso** poderia servir como ponto de partida o desenvolvimento de uma solução mais ampla, um LMS orientado à chat.
 
+Do lado do Moodle já existem iniciativas como o [plugin de atividade Moodle](https://moodle.org/plugins/mod_rocketchat) que permite a criação de canais Rocket Chat para cada disciplina. 
+
 **Desirable Skills:** Familiarity with Typescript, Rest API  and Rocket.Chat App development.
 
 **Goal/Deliverable:**  Aplicativo Rocket Chat que permita a sincronização de disciplinas do Moodle para acesso via atalho no canal da disciplina.
