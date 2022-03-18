@@ -3,7 +3,7 @@
 # IDEIAS
 
 ## APP MOODLE
-A experiência empírica de tranformação digital forçada durante a pandemia de Covid-19 iniciada em 2020, vista de dentro da rede pública de educação brasileira demonstrou que, mais uma vez as ferramentas de mensagens instantâneas funcionaram, não só como principal canal de comunicação, mas também assumiram papel fundamental em todo o processo de ensino-aprendizagem, sendo utilizadas para troca de conteúdos e até atividades interativas, como parte das ações em sala de aula online. 
+A experiência empírica de transformação digital forçada durante a pandemia de Covid-19 iniciada em 2020, vista de dentro da rede pública de educação brasileira demonstrou que, mais uma vez as ferramentas de mensagens instantâneas funcionaram, não só como principal canal de comunicação, mas também assumiram papel fundamental em todo o processo de ensino-aprendizagem, sendo utilizadas para troca de conteúdos e até atividades interativas, como parte das ações em sala de aula online. 
 
 Em alguns cenários, inclusive por incluir usuários com baixo letramento digital, a ferramenta de mensagem instantânea foi usada como plataforma de aprendizagem principal, a despeito de suas limitações, avaliando aqui do ponto de vista pedagógico.
 
